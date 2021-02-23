@@ -7,3 +7,6 @@ However I had to rewind back when making my camera movement as I had done the wo
 As i was adding a new script to my scene, it seemed to duplicate a script in my folder causing issues when trying to run, so i had to go into my files and delete the script and delete the component of the script and add in my new script.
 
 When i added in my code for the holding of a object, i mispelled a line of code making the script not work. I didnt notice this until i was showing my tutor which i noticed not long after. Once that was fixed the script was fine and able to work.
+
+## 23/02/2021
+Today i will be adding a health bar mechanic so that next week when adding a enemy attack my character has a health depletion mechanic
