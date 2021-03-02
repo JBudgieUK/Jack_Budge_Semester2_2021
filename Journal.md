@@ -12,3 +12,6 @@ When i added in my code for the holding of a object, i mispelled a line of code 
 Today i will be adding a health bar mechanic so that next week when adding a enemy attack my character has a health depletion mechanic
 After i finished coding the health bar next for an example i needed to give the bar to a player script which allows me to push space which will decrease the players health, however no Errors were showing but it would not let me run the the game so i went back a few steps and followed where i went wrong.
 i decided to rewrite the whole player code which didnt take to long, as i feel like i had wrote or mispelled some of the script but once i did that it wokred.
+
+## 02/03/2021
+In todays Lesson i went onto my 3rd component which is the Enemy AI which will follow a path until disturbed which it will attack a player. 
