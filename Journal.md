@@ -18,3 +18,4 @@ In todays Lesson i went onto my 3rd component which is the Enemy AI which will f
 
 ## 09/03/2021
 Today i will be doing my final component and will be writing up the documentation for each component and the tutorial of how to use this week.
+i will be making a pickup component
