@@ -14,4 +14,6 @@ After i finished coding the health bar next for an example i needed to give the 
 i decided to rewrite the whole player code which didnt take to long, as i feel like i had wrote or mispelled some of the script but once i did that it wokred.
 
 ## 02/03/2021
-In todays Lesson i went onto my 3rd component which is the Enemy AI which will follow a path until disturbed which it will attack a player. 
+In todays Lesson i went onto my 3rd component which is the Enemy AI which will follow a path until disturbed which it will attack a player. I have the script working but will need to test this in a scene with a player component and see if work with the first two other components.
+
+## 09/03/2021
