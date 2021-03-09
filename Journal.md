@@ -17,3 +17,4 @@ i decided to rewrite the whole player code which didnt take to long, as i feel l
 In todays Lesson i went onto my 3rd component which is the Enemy AI which will follow a path until disturbed which it will attack a player. I have the script working but will need to test this in a scene with a player component and see if work with the first two other components.
 
 ## 09/03/2021
+Today i will be doing my final component and will be writing up the documentation for each component and the tutorial of how to use this week.
