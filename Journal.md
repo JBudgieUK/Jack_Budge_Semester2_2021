@@ -21,3 +21,6 @@ Today i will be doing my final component and will be writing up the documentatio
 i will be making a attacking component.
 I started of having problems with my first person controller script, which has set me back some time, but after speaking to tutor i can use scripts used in other components to show my example so this has helped me not write out a new script.
 After i finished my script and was testing my component the object wasnt destroying the Enemey, after multiple checks and changes, i couldnt figure out what it was. So after showing a friend they told me i should try adding a rigid body to the object which worked out right.
+
+## 16/03/2021
+I am starting my small game project with all the components. I will need to add all the components with a Fps and Enemy.
