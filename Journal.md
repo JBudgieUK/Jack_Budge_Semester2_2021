@@ -1,4 +1,4 @@
-# SemesterTwo2021
+# Semester 2 2021
 ## 16/02/2021
 Today I have started my first Component for the assignment, which is to have a First Person script be able to pickup and drop items, which then the 3 other components will be able to work with the player script.
 
