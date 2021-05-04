@@ -23,4 +23,7 @@ I started of having problems with my first person controller script, which has s
 After i finished my script and was testing my component the object wasnt destroying the Enemey, after multiple checks and changes, i couldnt figure out what it was. So after showing a friend they told me i should try adding a rigid body to the object which worked out right.
 
 ## 16/03/2021
-I am starting my small game project with all the components. I will need to add all the components with a Fps and Enemy.
+I am starting my small game project with all the components. I will need to add all the components into the scene making them all work together. I first added in my FPS script and enemy script.
+
+## 23/03/2021
+Today i added my next two scripts which were my health and attack script. However using both the attack and pick up script caused the character to hit attack when picking up an object. It didnt effect the gameplay just made look odd.
