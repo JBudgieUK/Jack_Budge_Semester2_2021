@@ -27,5 +27,6 @@ I am starting my small game project with all the components. I will need to add 
 
 ## 23/03/2021
 Today i added my next two scripts which were my health and attack script. However using both the attack and pick up script caused the character to attack when picking up an object. This wasnt an error, as i will need to change the key in attack script in the small demo.
+I had to add a new key in my input manager by going, Edit-Project Settings-Input Manger. I added a new key which was E and rewrote the code with E instead of Fire1. This seemed to do the job.
 
 
