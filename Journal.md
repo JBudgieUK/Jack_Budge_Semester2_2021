@@ -26,4 +26,6 @@ After i finished my script and was testing my component the object wasnt destroy
 I am starting my small game project with all the components. I will need to add all the components into the scene making them all work together. I first added in my FPS script and enemy script.
 
 ## 23/03/2021
-Today i added my next two scripts which were my health and attack script. However using both the attack and pick up script caused the character to hit attack when picking up an object. It didnt effect the gameplay just made look odd.
+Today i added my next two scripts which were my health and attack script. However using both the attack and pick up script caused the character to attack when picking up an object. This wasnt an error, as i will need to change the key in attack script in the small demo.
+
+
